@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Gloucester-shire tragedy: or, the lovers down-fall. Shewing how an old miser of a vast estate, would have married his daughter to a covetous, rich knight, whom she could not love; after which, he con[s]ented to a young gentleman to court her; but assoon [sic] as they were engaged to each other, he kept her from him, whereupon she denied him marriage without her father's consent: how he poisoned himself, and afterwards his ghost appear'd to her with a burning torch: how she was poison'd, which caused her father to stab himself, &amp;c. To the tune of, The palatine lovers.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23520</idno><idno type="EEBO-CITATION">99888050</idno>
+  <idno type="VID">193108</idno>
+  <idno type="EEBO-PROQUEST">2240885330</idno>
+  
+            <idno type="STC">Wing G887</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[857]</idno>
+            <idno type="STC">ESTC R228935</idno>
+            <idno type="PROQUEST">ocm99888050</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888050e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193108)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[510])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Gloucester-shire tragedy: or, the lovers down-fall. Shewing how an old miser of a vast estate, would have married his daughter to a covetous, rich knight, whom she could not love; after which, he con[s]ented to a young gentleman to court her; but assoon [sic] as they were engaged to each other, he kept her from him, whereupon she denied him marriage without her father's consent: how he poisoned himself, and afterwards his ghost appear'd to her with a burning torch: how she was poison'd, which caused her father to stab himself, &amp;c. To the tune of, The palatine lovers.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Near Golford town, we hear,".</note>
+                  <note>Printed in six columns; the columns are separated by rules.</note>
+                  <note>Imperfect: copy stained and mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193108:1"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:193108:2"/>
+            <head>The <hi>Gloucester-shire</hi> TRAGEDY: Or, The LOVERS Down-Fall.</head>
+            <head type="sub">Sh<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wing how an Old Miser, of a vast Estate, would have married his Daughter to a Covetous, Rich Knight, whom she could not Love; After which, he co<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ented to a young Gentleman to Court her; but assoon as they were Engaged to each other, he kept her from him, whereupon she denied him Marriage without her Father's Consent: How he Poisoned himself, and afterwards his Ghost appear'd to her with a burning Torch: How she was poison'd, which caused her Father to stab himself, <hi>&amp;c.</hi>
+            </head>
+            <opener>To the Tune of, The <hi>Palatine</hi> Lovers.</opener>
+            <head type="illustration">
+               <figure>
+                  <figDesc>depiction of coach and horses</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of man, horizontal</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of man and woman, holding hands</figDesc>
+               </figure>
+            </head>
+            <lg>
+               <l>NEar <hi>Golford</hi> Town, we hear,</l>
+               <l>Of late in <hi>Gloucester-shire,</hi>
+               </l>
+               <l>There liv'd a Lady fair,</l>
+               <l>of Beauty bright;</l>
+            </lg>
+            <lg>
+               <l>Her Father vastly great,</l>
+               <l>In Money and Estate,</l>
+               <l>Which most unfortunate,</l>
+               <l>ruin'd her quite.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>housand pounds a Year,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> had, we hear,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> no other Heir,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lady;</l>
+            </lg>
+            <lg>
+               <l>Who'd marry her out-right,</l>
+               <l>Unto a Rich Old Knight:</l>
+               <l>But she the same did slight</l>
+               <l>disdainfully.</l>
+            </lg>
+            <lg>
+               <l>Father, she often cry'd,</l>
+               <l>If that I should be ty'd</l>
+               <l>To be an Old Man's Bride,</l>
+               <l>How would this prove?</l>
+            </lg>
+            <lg>
+               <l>If I in Marriage Band</l>
+               <l>Must obey your Command,</l>
+               <l>Let me, Sir, have a Man,</l>
+               <l>that I can love,</l>
+            </lg>
+            <lg>
+               <l>Her Father angry grew,</l>
+               <l>Saying, Daughter, if you</l>
+               <l>Will my Commands not do,</l>
+               <l>to pleasure me,</l>
+            </lg>
+            <lg>
+               <l>Assured be of this,</l>
+               <l>If that you wed am<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s</l>
+               <l>Unto my Mind, I'll dis-</l>
+               <l>inherit thee.</l>
+            </lg>
+            <lg>
+               <l>For some time this past on,</l>
+               <l>And a young Gentleman,</l>
+               <l>That lived near at hand,</l>
+               <l>a wooing came.</l>
+            </lg>
+            <lg>
+               <l>One thousand Pounds a Year,</l>
+               <l>His Father had we hear,</l>
+               <l>And he his only Heir</l>
+               <l>unto the same.</l>
+            </lg>
+            <lg>
+               <l>When to her Father come,</l>
+               <l>His Business he made known,</l>
+               <l>For whose dear Sake alone,</l>
+               <l>he him addrest.</l>
+            </lg>
+            <lg>
+               <l>Sir, if you'll give, he cry'd,</l>
+               <l>Your Daughter for my Bride,</l>
+               <l>Sure no Man e'er beside,</l>
+               <l>can be more blest.</l>
+            </lg>
+            <lg>
+               <l>Her Father cunningly,</l>
+               <l>Di<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> make him this Reply,</l>
+               <l>Your Suit I'll not deny,</l>
+               <l>get her in Mind:</l>
+            </lg>
+            <lg>
+               <l>But when they'd fix their Love</l>
+               <l>Before the Powers <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove,</l>
+               <l>To them he false did prove,</l>
+               <l>as you will find.</l>
+            </lg>
+            <lg>
+               <l>When some few Months, alas;</l>
+               <l>In Courtship they had past,</l>
+               <l>Their Hearts were linked fast,</l>
+               <l>in lasting Love.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Cupid</hi> had plaid his Part,</l>
+               <l>And sent a flaming Dart,</l>
+               <l>To wound each others Heart,</l>
+               <l>which none could move.</l>
+            </lg>
+            <lg>
+               <l>But see the wretched Fate</l>
+               <l>Of cruel Father's Hate:</l>
+               <l>He strove to seperate</l>
+               <l>the<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>And would not yield, he said,</l>
+               <l>Though he had promised</l>
+               <l>this Gentleman should wed</l>
+               <l>his Daughter fair.</l>
+            </lg>
+            <lg>
+               <l>Pray Sir, he often cry'd,</l>
+               <l>Why must I be deny'd,</l>
+               <l>Of this my charming Bride,</l>
+               <l>I so much love?</l>
+            </lg>
+            <lg>
+               <l>If that unkind you are,</l>
+               <l>To part us loving Pair,</l>
+               <l>We're ruin'd I declare;</l>
+               <l>then kinder prove.</l>
+            </lg>
+            <lg>
+               <l>Her Father did say,</l>
+               <l>
+                  <hi>Think you <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oung Man I pray,</hi>
+               </l>
+               <l>
+                  <hi>That I will throw away</hi>
+               </l>
+               <l>
+                  <hi>my Daughter so?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Her Fortune is too great,</hi>
+               </l>
+               <l>
+                  <hi>For one of your Estate,;</hi>
+               </l>
+               <l>
+                  <hi>Therefore stand not to prate.</hi>
+               </l>
+               <l>
+                  <hi>my Mind you kn<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then in great Discontent,</l>
+               <l>He to his Lady went,</l>
+               <l>And sadly did lament</l>
+               <l>this his hard Case.</l>
+            </lg>
+            <lg>
+               <l>Saying, <hi>Dear Lady bright,</hi>
+               </l>
+               <l>
+                  <hi>I'm ruin'd, ruin'd quite,</hi>
+               </l>
+               <l>
+                  <hi>Your Father does me slight,</hi>
+               </l>
+               <l>
+                  <hi>and proves most base.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>He'll not consent,</hi> he cry'd,</l>
+               <l>
+                  <hi>That you should be my Bride,</hi>
+               </l>
+               <l>
+                  <hi>Oh! What will me betide?</hi>
+               </l>
+               <l>
+                  <hi>I am undone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Now</hi> I <hi>have fix'd my Love,</hi>
+               </l>
+               <l>
+                  <hi>He most unkind does prove;</hi>
+               </l>
+               <l>
+                  <hi>Pity, ye Powers above,</hi>
+               </l>
+               <l>
+                  <hi>a poor young Man.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then did he sadly weep,</l>
+               <l>Grieving and sighing deep,</l>
+               <l>And at his Lady's Feet,</l>
+               <l>fell in a Swoond:</l>
+            </lg>
+            <lg>
+               <l>This griev'd her to the Heart,</l>
+               <l>Of Love she felt the Smart,</l>
+               <l>As in the ensuing part,</l>
+               <l>will soon be found,</l>
+            </lg>
+            <lg>
+               <l>When thus, this Lady fair</l>
+               <l>Beheld her Lover dear,</l>
+               <l>She us'd her utmost Care</l>
+               <l>him to revive?</l>
+            </lg>
+            <lg>
+               <l>And often, often cry'd,</l>
+               <l>If I am you deny'd,</l>
+               <l>I'll have no One beside,</l>
+               <l>as I'm alive.</l>
+            </lg>
+            <lg>
+               <l>Then did the Tears apace,</l>
+               <l>Run trickling down her Face,</l>
+               <l>And him did oft embrace,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+            </lg>
+            <lg>
+               <l>Wretched Father, said she,</l>
+               <l>In this your Love to me?</l>
+               <l>I shall now ruin'd be</l>
+               <l>for evermore.</l>
+            </lg>
+            <lg>
+               <l>As from his Swoon he came,</l>
+               <l>With a deep Sigh and Groan,</l>
+               <l>He cry'd, Undone, Undone,</l>
+               <l>my Dear, am I.</l>
+            </lg>
+            <lg>
+               <l>My Love is just and true,</l>
+               <l>And if I have not you,</l>
+               <l>I'll bid the World adieu</l>
+               <l>Eternally.</l>
+            </lg>
+            <lg>
+               <l>These Words she did express,</l>
+               <l>My Love is nothing less,</l>
+               <l>I freely must confess,</l>
+               <l>it is most true.</l>
+            </lg>
+            <lg>
+               <l>But if my Fa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, he,</l>
+               <l>Will not to it agree,</l>
+               <l>I cannot marry'd be,</l>
+               <l>dear Sir, to you.</l>
+            </lg>
+            <lg>
+               <l>I will most constant prove,</l>
+               <l>No other will I love;</l>
+               <l>Witness ye Gods above</l>
+               <l>to what is said.</l>
+            </lg>
+            <lg>
+               <l>But cease for to lament,</l>
+               <l>And <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rive to be Content;</l>
+               <l>For without his Consent</l>
+               <l>I will not wed.</l>
+            </lg>
+            <lg>
+               <l>When she these Words did speak</l>
+               <l>He sigh'd as Heart would break</l>
+               <l>Saying, Love, for your sake,</l>
+               <l>ruin'd am I.</l>
+            </lg>
+            <lg>
+               <l>I'll say no more than this</l>
+               <l>Give me one parting Kiss:</l>
+               <l>Now farewel Earthly Bliss</l>
+               <l>Eternally.</l>
+            </lg>
+            <lg>
+               <l>Then from her he did go,</l>
+               <l>With a Heart fill'd with Woe,</l>
+               <l>To work his Overthrow</l>
+               <l>resolvedly.</l>
+            </lg>
+            <lg>
+               <l>Some Poison strong he took,</l>
+               <l>Which quickly did its Work;</l>
+               <l>so he this world forsook</l>
+               <l>most wretchedly.</l>
+            </lg>
+            <lg>
+               <l>When this News to her came,</l>
+               <l>She griev'd much for the same.</l>
+               <l>And said he was to blame</l>
+               <l>himself to kill.</l>
+            </lg>
+            <lg>
+               <l>She to her Father ran,</l>
+               <l>And cry'd, O cruel Man,</l>
+               <l>See, see what you have done,</l>
+               <l>by your ill will.</l>
+            </lg>
+            <lg>
+               <l>Like one Distracted, she</l>
+               <l>Lamented bitterly,</l>
+               <l>And said, My Dear, with thee</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Declare if now I shall,</l>
+               <l>I'm ruin'd by your Fall;</l>
+               <l>I lov'd you more than all</l>
+               <l>the World beside.</l>
+            </lg>
+            <lg>
+               <l>Thus Day and Night she cry,</l>
+               <l>My Love, why did you die,</l>
+               <l>And leave me wretchedly</l>
+               <l>behind you here;</l>
+            </lg>
+            <lg>
+               <l>O! come dear Ghost to me,</l>
+               <l>And let me once more see,</l>
+               <l>That comely Face, said she,</l>
+               <l>I love'd so dear.</l>
+            </lg>
+            <lg>
+               <l>As she one Night did lie,</l>
+               <l>Weeping most bitterly,</l>
+               <l>She heard a Voice to cry,</l>
+               <l>my Dear, my Dear,</l>
+            </lg>
+            <lg>
+               <l>For your sweet sake I dy'd,</l>
+               <l>Who should have been my Bride</l>
+               <l>Behold at your Bed's side;</l>
+               <l>I'm here, I'm here.</l>
+            </lg>
+            <lg>
+               <l>At which the Curtain she</l>
+               <l>Put back immediatly,</l>
+               <l>And the pale Ghost did see</l>
+               <l>At her Bed's side;</l>
+            </lg>
+            <lg>
+               <l>It cloathed was in White,</l>
+               <l>Holding a Torch so Bright;</l>
+               <l>At this most dismal Sight</l>
+               <l>she shri<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k'd and cry'd.</l>
+            </lg>
+            <lg>
+               <l>The Ghost then thus did speak,</l>
+               <l>I died for your sake,</l>
+               <l>'Twas love my Heart did break</l>
+               <l>most certainly:</l>
+            </lg>
+            <lg>
+               <l>The Morning Cock I fear,</l>
+               <l>Won't let me long stay here,</l>
+               <l>Then if you love me; Dear-</l>
+               <l>est follow me.</l>
+            </lg>
+            <lg>
+               <l>The Ghost a Dead-mans Skull</l>
+               <l>Did hold, with Poyson full,</l>
+               <l>Saying come drink your fill,</l>
+               <l>of this black Cup;</l>
+            </lg>
+            <lg>
+               <l>'t will love-sick Passions cure,</l>
+               <l>I've drank the same before;</l>
+               <l>And so has Hundreds more;</l>
+               <l>then take it up.</l>
+            </lg>
+            <lg>
+               <l>She took it, saying L<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>By all the Gods above,</l>
+               <l>this shall my Witness prove</l>
+               <l>I love you well;</l>
+            </lg>
+            <lg>
+               <l>Now will I go she said,</l>
+               <l>And in your grave be laid;</l>
+               <l>In sweet Eliza<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s-Shades,</l>
+               <l>our Souls shall dwell.</l>
+            </lg>
+            <lg>
+               <l>She instantly arose,</l>
+               <l>Sorrounded all with Woes,</l>
+               <l>And with the Ghost she goes,</l>
+               <l>down to the Gate;</l>
+            </lg>
+            <lg>
+               <l>Whereas a Coach did stand.</l>
+               <l>With many a Serving Man,</l>
+               <l>With torches in their Hand</l>
+               <l>that their did wait.</l>
+            </lg>
+            <lg>
+               <l>Being put in the Coach,</l>
+               <l>With her beloved Ghost,</l>
+               <l>Most swiftly they did past,</l>
+               <l>unto his Grave:</l>
+            </lg>
+            <lg>
+               <l>and said, Love here i lie,</l>
+               <l>then quickly, quickly die,</l>
+               <l>to which he straight did hie,</l>
+               <l>'tis that I'd have.</l>
+            </lg>
+            <lg>
+               <l>Vanishing all away,</l>
+               <l>they left her there to stay,</l>
+               <l>till the approaching Day.</l>
+               <l>among the tombs;</l>
+            </lg>
+            <lg>
+               <l>She sadly did Lament,</l>
+               <l>Her Cryes to Heaven sent,</l>
+               <l>And said, Ghost be content,</l>
+               <l>I'll come, ill come.</l>
+            </lg>
+            <lg>
+               <l>The Poyson wrack'd her Heart</l>
+               <l>Working in every part,</l>
+               <l>Death with his fatal Dart</l>
+               <l>the Wound had gave,</l>
+            </lg>
+            <lg>
+               <l>i<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> woeful Misery,</l>
+               <l>She did expecting lie,</l>
+               <l>Each Minute for die,</l>
+               <l>upon his Grave.</l>
+            </lg>
+            <lg>
+               <l>As in this state she lay,</l>
+               <l>Until the silent Day,</l>
+               <l>Young-man past that way</l>
+               <l>and her did know;</l>
+            </lg>
+            <lg>
+               <l>Fair Lady to me tell,</l>
+               <l>What chance has you befel,</l>
+               <l>I fear all is not well,</l>
+               <l>that you lie so.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then she declar'd what p<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st</hi>
+               </l>
+               <l>
+                  <hi>From first unto the last</hi>
+               </l>
+               <l>
+                  <hi>An<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> said Y<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ung man make hast</hi>
+               </l>
+               <l>
+                  <hi>and run with speed</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Unto my Father Dear,</hi>
+               </l>
+               <l>
+                  <hi>who have been so severe,</hi>
+               </l>
+               <l>
+                  <hi>O bi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him quick come here</hi>
+               </l>
+               <l>
+                  <hi>e'er I am Dead,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Her Father came and found</l>
+               <l>Her lying on the Ground,</l>
+               <l>And ready was to swoon</l>
+               <l>at this sad sight,</l>
+            </lg>
+            <lg>
+               <l>She cry'd dear Father I,</l>
+               <l>For Love now here must die</l>
+               <l>'Tis your Severity</l>
+               <l>has kill'd me quite</l>
+            </lg>
+            <lg>
+               <l>Death wracks in e'<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y Place,</l>
+               <l>And stares one in the Face▪</l>
+               <l>Dear Grave I'll thee embrace,</l>
+               <l>so Lovingly.</l>
+            </lg>
+            <lg>
+               <l>Dear Love now open wide</l>
+               <l>thy Arms for thy dear Bride,</l>
+               <l>I come, I come, she cry'd,</l>
+               <l>and so did die,</l>
+            </lg>
+            <lg>
+               <l>Her Father grieving sore,</l>
+               <l>Hugging her n'er and o<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Ye Heavens i implore</l>
+               <l>Let me too die,</l>
+            </lg>
+            <lg>
+               <l>then with a Dagger sharp</l>
+               <l>He struck him to the Heart,</l>
+               <l>His Life did there depart</l>
+               <l>imm<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diately.</l>
+            </lg>
+            <lg>
+               <l>O cruel Death severe</l>
+               <l>what dismal sight was here,</l>
+               <l>Father and Daughter dear,</l>
+               <l>thus for to die.</l>
+            </lg>
+            <lg>
+               <l>their sad and dismal Fall,</l>
+               <l>Lamented was by all,</l>
+               <l>And did for Pity call</l>
+               <l>from every Every Eye.</l>
+            </lg>
+            <lg>
+               <l>then home they were convey'd</l>
+               <l>with speed, as it is said,</l>
+               <l>And both in state were laid,</l>
+               <l>in a Large Hall.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>which thousands came to see,</hi>
+               </l>
+               <l>
+                  <hi>Hearing this Tragedy.</hi>
+               </l>
+               <l>
+                  <hi>That might a warning be</hi>
+               </l>
+               <l>
+                  <hi>to Lovers all:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>By all both Rich and Poor,</hi>
+               </l>
+               <l>
+                  <hi>They lay lamented o'er,</hi>
+               </l>
+               <l>
+                  <hi>About a Week or more,</hi>
+               </l>
+               <l>
+                  <hi>in mournful State.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Many a Lover dear,</hi>
+               </l>
+               <l>
+                  <hi>Many a Lady fair,</hi>
+               </l>
+               <l>
+                  <hi>In mourning did appear,</hi>
+               </l>
+               <l>
+                  <hi>for their sad Fate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A Hearse and Six with speed,</hi>
+               </l>
+               <l>
+                  <hi>Previded was indeed,</hi>
+               </l>
+               <l>
+                  <hi>Many a mournful weed,</hi>
+               </l>
+               <l>
+                  <hi>did it attend▪</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Their Graves <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re made close by</hi>
+               </l>
+               <l>
+                  <hi>where her true love did lie;</hi>
+               </l>
+               <l>
+                  <hi>So of this Tragedy,</hi>
+               </l>
+               <l>
+                  <hi>I make an end.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
